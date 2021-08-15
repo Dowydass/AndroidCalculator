@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestCalculator</string>
+
+        <string-array name="planets_array">
+            <item>*</item>
+            <item>/</item>
+            <item>+</item>
+            <item>-</item>
+        </string-array>
+</resources>
